@@ -1,4 +1,4 @@
-public class SingLeTest {
+public class SingleTest {
     private static Single instance = new Single();
     private Single() { }  //전용 생성자
 
