@@ -13,5 +13,6 @@ public class SingleTest {
         Single obj2 = Single.getInstance();
         System.out.println(obj1);
         System.out.println(obj2);
+
     }
 }
