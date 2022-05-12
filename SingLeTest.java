@@ -9,8 +9,8 @@ public class SingLeTest {
 
 public class SingleTest {
     public static void main(String[] args){
-        Single obj1 = SingLe.getInstance();
-        Single obj2 = SingLe.getInstance();
+        Single obj1 = Single.getInstance();
+        Single obj2 = Single.getInstance();
         System.out.println(obj1);
         System.out.println(obj2);
     }
